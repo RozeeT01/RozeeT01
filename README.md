@@ -10,17 +10,15 @@
 - <b>GroupBy, Aggregation & Filter </b>  
   -[Real Time code for String](https://github.com/RozeeT01/String-Filter)
   
-- <b>Average Salary of each department and sorting with age </b>
-  [Code link]
+- <b>Average Salary of each department and sorting with age </b>  
+  -[Window function to find average salary and sort age of employee](https://github.com/RozeeT01/WindowFunction)  
+  
 - <b>Window</b>    
   -[Real Time code for Window Function](https://github.com/RozeeT01/WindowFunctionCode)
   
 - <b>Pivot</b>    
   -[Pivot Function code for few data](https://github.com/RozeeT01/Pivot-Function)  
-  
-- <b>Window function to find average salary</b>  
-    -[Window function to find average salary and sort age of employee](https://github.com/RozeeT01/WindowFunction)
-
+      
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="RozeeThapaliya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
