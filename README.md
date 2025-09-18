@@ -16,7 +16,7 @@
   -[Real Time code for Window Function(https://github.com/RozeeT01/WindowFunctionCode)
   
 - <b>Pivot</b>    
-  -[Pivot Function()](https://github.com/RozeeT01/WindowFunctionCode) 
+  -[Pivot Function()](https://github.com/RozeeT01/Pivot-Function) 
 
 <h2> 🤳 Connect with me:</h2>
 
