@@ -10,8 +10,8 @@
 - <b>GroupBy, Aggregation & Filter </b>  
   -[Real Time code for String](https://github.com/RozeeT01/String-Filter)
   
-- <b>Union</b>
-  - 
+- <b>Average Salary of each department and sorting with age </b>
+  [Code link]
 - <b>Window</b>    
   -[Real Time code for Window Function](https://github.com/RozeeT01/WindowFunctionCode)
   
