@@ -16,7 +16,10 @@
   -[Real Time code for Window Function](https://github.com/RozeeT01/WindowFunctionCode)
   
 - <b>Pivot</b>    
-  -[Pivot Function code for few data](https://github.com/RozeeT01/Pivot-Function) 
+  -[Pivot Function code for few data](https://github.com/RozeeT01/Pivot-Function)  
+  
+- <b>Window function to find average salary</b>  
+    -[Window function to find average salary and sort age of employee](https://github.com/RozeeT01/WindowFunction)
 
 <h2> 🤳 Connect with me:</h2>
 
