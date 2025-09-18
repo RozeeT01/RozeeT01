@@ -8,13 +8,15 @@
 - <b>Join Practice (Inner, Right, Left,Full, Cross Join)</b>
   - 
 - <b>GroupBy, Aggregation & Filter </b>  
-  -[Real Time code for String (How to use Aggr, groupby function with filter in real time project)](https://github.com/RozeeT01/String-Filter)
+  -[Real Time code for String(https://github.com/RozeeT01/String-Filter)
   
 - <b>Union</b>
   - 
 - <b>Window</b>    
-  -[Real Time code for Window Function(How to use window function with groupby in real time project)](https://github.com/RozeeT01/WindowFunctionCode)
+  -[Real Time code for Window Function(https://github.com/RozeeT01/WindowFunctionCode)
   
+- <b>Pivot</b>    
+  -[Pivot Function()](https://github.com/RozeeT01/WindowFunctionCode) 
 
 <h2> 🤳 Connect with me:</h2>
 
