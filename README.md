@@ -3,12 +3,12 @@
 
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
-- <b>SQL Practice (AlgoExpert)</b>
-  -
+- <b>Data Masking </b>  
+  -[Real Time code for data Masking in DF](https://github.com/RozeeT01/DataMasking)
 - <b>Join Practice (Inner, Right, Left,Full, Cross Join)</b>
-  - 
+-    
 - <b>GroupBy, Aggregation & Filter </b>  
-  -[Real Time code for String](https://github.com/RozeeT01/String-Filter)
+  -[Real Time code for String GroupBy function](https://github.com/RozeeT01/String-Filter)
   
 - <b>Average Salary of each department and sorting with age </b>  
   -[Window function to find average salary and sort age of employee](https://github.com/RozeeT01/WindowFunction)  
