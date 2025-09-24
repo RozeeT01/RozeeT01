@@ -25,6 +25,9 @@
 
  - <b> When and GroupBY (solving with When, GroupBy and Collect)</b>   
   -https://github.com/RozeeT01/Scanario-Question
+
+- <b> Give the * for the rating</b>   
+  -https://github.com/RozeeT01/Give-me-for-the-number-of-rating
       
 <h2> 🤳 Connect with me:</h2>
 
