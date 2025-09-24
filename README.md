@@ -7,7 +7,7 @@
   -[Real Time code for data Masking in DF](https://github.com/RozeeT01/DataMasking)
 - <b>IBM Question (solving with window, withColumn and join)</b>  
   -https://github.com/RozeeT01/WIndow-Creating-withColumn
-   
+     
 - <b>GroupBy, Aggregation & Filter </b>  
   -[Real Time code for String GroupBy function](https://github.com/RozeeT01/String-Filter)
   
@@ -21,7 +21,10 @@
   -[Real Time code for Window Function](https://github.com/RozeeT01/WindowFunctionCode)
   
 - <b>Pivot</b>    
-  -[Pivot Function code for few data](https://github.com/RozeeT01/Pivot-Function)  
+  -[Pivot Function code for few data](https://github.com/RozeeT01/Pivot-Function)
+
+ - <b> When and GroupBY (solving with When, GroupBy and Collect)</b>   
+  -https://github.com/RozeeT01/Scanario-Question
       
 <h2> 🤳 Connect with me:</h2>
 
