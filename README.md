@@ -10,6 +10,9 @@
 - <b>GroupBy, Aggregation & Filter </b>  
   -[Real Time code for String GroupBy function](https://github.com/RozeeT01/String-Filter)
   
+- <b>GroupBy, Aggregation & Collect </b>    
+  -https://github.com/RozeeT01/CollectSet-and-Count  
+  
 - <b>Average Salary of each department and sorting with age </b>  
   -[Window function to find average salary and sort age of employee](https://github.com/RozeeT01/WindowFunction)  
   
