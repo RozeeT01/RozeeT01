@@ -28,6 +28,9 @@
 
 - <b> Give the * for the rating</b>   
   -https://github.com/RozeeT01/Give-me-for-the-number-of-rating
+
+- <b>list of name of participants who has rank=1 most number of times </b>     
+  -https://github.com/RozeeT01/finding-max-value-from-array  
       
 <h2> 🤳 Connect with me:</h2>
 
